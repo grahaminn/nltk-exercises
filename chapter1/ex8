@@ -1,0 +1,3 @@
+len(set(text4)) counts the number of distinct words (in a case sensitive way)
+
+The set operation produces a set of unique items from the words in the text, and len then counts items in the set 
