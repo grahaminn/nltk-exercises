@@ -1,0 +1,1 @@
+the < is used to test is the LHS set is a subset of the RHS set. We could use this to see if the vocab of a text contained the vocab of another.    
