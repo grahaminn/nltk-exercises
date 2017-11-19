@@ -1,0 +1,1 @@
+not islower will be true if a single character is upper case. isupper is true when ALL characters are upper case
