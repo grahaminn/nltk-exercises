@@ -1,0 +1,1 @@
+line 2 will possibly giv a larger list because doing the set operation before lowercasing means different cases of the same word are not de-duplicated
